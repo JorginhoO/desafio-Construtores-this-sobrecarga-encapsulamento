@@ -1,7 +1,4 @@
-![image](https://github.com/JorginhoO/desafio-Construtores-this-sobrecarga-encapsulamento/assets/103656969/3fb1ab3c-93e8-48bd-b748-5fd78eb29a0c)
-
-![image](https://github.com/JorginhoO/desafio-Construtores-this-sobrecarga-encapsulamento/assets/103656969/f7d71fc2-81ee-4b0c-b565-bb4904a54dbc)
-
-![image](https://github.com/JorginhoO/desafio-Construtores-this-sobrecarga-encapsulamento/assets/103656969/ae0f8e30-6114-499c-bc03-472e0ce91625)
-
-![image](https://github.com/JorginhoO/desafio-Construtores-this-sobrecarga-encapsulamento/assets/103656969/e18022e2-f687-49dc-84e0-6e3431d19005)
+![image](https://github.com/JorginhoO/desafio-construtores-this-sobrecarga-encapsulamento/assets/103656969/76d3111b-a545-4635-8b0e-989c37b63b81)
+![image](https://github.com/JorginhoO/desafio-construtores-this-sobrecarga-encapsulamento/assets/103656969/3b0e9a90-7333-451f-a043-4fbf866b5988)
+![image](https://github.com/JorginhoO/desafio-construtores-this-sobrecarga-encapsulamento/assets/103656969/5990334b-2a33-4b04-869c-17064cb70864)
+![image](https://github.com/JorginhoO/desafio-construtores-this-sobrecarga-encapsulamento/assets/103656969/08dcb812-a05b-4d10-87d5-a12da484fe3e)
