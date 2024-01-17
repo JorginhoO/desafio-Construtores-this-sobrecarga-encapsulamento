@@ -1,0 +1,36 @@
+# Arquivos temporários
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+*.out
+
+# Arquivos de configuração
+*.iml
+.idea/
+.vscode/
+*.project
+*.classpath
+
+# Arquivos de compilação e diretórios
+bin/
+target/
+
+# Dependências e arquivos gerados pelo Maven
+/.mvn/
+dependency-reduced-pom.xml
+.mvn/wrapper/maven-wrapper.jar
+
+# Arquivos de build do Gradle
+.gradle/
+build/
+
+# Arquivos de logs
+logs/
+
+# Arquivos de usuário
+*.swp
+*~
+.DS_Store
