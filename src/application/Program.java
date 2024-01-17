@@ -33,17 +33,17 @@ public class Program {
         sc.close();
     }
 
-    private static void executeTurn(Champion champion1, Champion champion2){
+    private static void executeTurn(Champion champion1, Champion champion2) {
         champion1.takeDamage(champion2);
         champion2.takeDamage(champion1);
     }
 
-    private static void displayStatus(Champion champion1, Champion champion2){
+    private static void displayStatus(Champion champion1, Champion champion2) {
         System.out.println(champion1.status());
         System.out.println(champion2.status());
     }
 
-    private static boolean combatEnded (Champion champion1, Champion champion2) {
+    private static boolean combatEnded(Champion champion1, Champion champion2) {
         return champion1.getLife() == 0 || champion2.getLife() == 0;
     }
 }

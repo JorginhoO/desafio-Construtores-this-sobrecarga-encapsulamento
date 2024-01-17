@@ -66,10 +66,6 @@ public class Champion {
         this.life = Math.max(this.life, 0);
     }
 
-    private int calculateDamage(Champion attacker) {
-        return attacker.attack - this.armor;
-    }
-
     public String status() {
         if (this.life == 0) {
             return this.name + ": 0 de vida (morreu)";
